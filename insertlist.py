@@ -1,4 +1,5 @@
 list = ["a", "b","c","d"]
+'''
 list.insert(2, "e")
 print(list)
 
@@ -13,4 +14,12 @@ arr2 = [1, 2, 5, 8, 0]
 
 arr1.extend(arr2)
 print(arr1)
+'''
+
+arr3 = [i for i in input().split(' ')]
+arr4 = [x for x in input().split(' ')]
+arr3.extend(arr4)
+print(arr3)
+
+
 
