@@ -1,4 +1,4 @@
-
+'''
 list = [56, 78, 54, 43]
 list.clear()
 print(list)
@@ -11,3 +11,5 @@ print(list)
 list = [ 67 , 967, 945, 765]
 del list
 print(list)
+'''
+
