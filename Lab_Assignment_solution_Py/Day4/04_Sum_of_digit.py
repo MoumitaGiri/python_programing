@@ -1,0 +1,1 @@
+# write a program to calculate the sum of digits of a number
