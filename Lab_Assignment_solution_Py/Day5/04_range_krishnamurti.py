@@ -1,0 +1,1 @@
+# write a program to print all krishnamurti numbers between 1 to N
